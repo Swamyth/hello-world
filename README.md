@@ -1,4 +1,4 @@
 # hello-world
-Started Learning Git - hello-world
+Started Learning Git
 Learning coding 
-Git..! is Nice.
+Git is Nice.
