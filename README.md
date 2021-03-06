@@ -1,4 +1,4 @@
 # hello-world
 
-Hi, This is [Swamy](https://www.linkedin.com/in/rudraswamyth/)'s my LinkedIn profile link.
+Hi, This is Swamy see me on LinkedIn ([Swamy](https://www.linkedin.com/in/rudraswamyth/))
 
